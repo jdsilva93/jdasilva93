@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 <!-- Talking about you -->
 **About Me (TLDR):**
-- I am an Azure Cloud Systems Developer, with a focus on IaC and DevOps.
+- I am an Azure Cloud Systems Security Developer, with a focus on IaC, DevOps and Cloud Security.
 - Have 7 years experience as an Electronics Research and Technology Engineer in Aerospace.
 - Excited about technology, with a keen interest in AI, Machine Learning and how it can be leveraged in Cloud Security.
 ---
